@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\bin\Debug\netcoreapp3.1\Grade Point Average Calculator.exe
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\bin\Debug\netcoreapp3.1\Grade Point Average Calculator.deps.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\bin\Debug\netcoreapp3.1\Grade Point Average Calculator.runtimeconfig.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\bin\Debug\netcoreapp3.1\Grade Point Average Calculator.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\bin\Debug\netcoreapp3.1\Grade Point Average Calculator.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\bin\Debug\netcoreapp3.1\Grade Point Average Calculator.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.dll
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.pdb
+C:\Users\hp\Desktop\Decagon program uploaded to github\week1-onas1\Grade Point Average Calculator\obj\Debug\netcoreapp3.1\Grade Point Average Calculator.genruntimeconfig.cache
